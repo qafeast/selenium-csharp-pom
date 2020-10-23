@@ -1,6 +1,7 @@
 Precondition:
 
 Install Visual studio 2019 community version
+
 Download chromedriver place in the  workspace https://chromedriver.chromium.org/downloads.
 
 
